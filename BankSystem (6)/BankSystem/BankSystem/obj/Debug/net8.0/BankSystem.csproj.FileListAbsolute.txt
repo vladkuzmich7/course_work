@@ -1,0 +1,49 @@
+C:\Users\Vlad\source\repos\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\source\repos\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\BankSystem\BankSystem\bin\Debug\net8.0\BankSystem.exe
+C:\Users\Vlad\source\repos\BankSystem\BankSystem\bin\Debug\net8.0\BankSystem.deps.json
+C:\Users\Vlad\source\repos\BankSystem\BankSystem\bin\Debug\net8.0\BankSystem.runtimeconfig.json
+C:\Users\Vlad\source\repos\BankSystem\BankSystem\bin\Debug\net8.0\BankSystem.dll
+C:\Users\Vlad\source\repos\BankSystem\BankSystem\bin\Debug\net8.0\BankSystem.pdb
+C:\Users\Vlad\source\repos\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.dll
+C:\Users\Vlad\source\repos\BankSystem\BankSystem\obj\Debug\net8.0\refint\BankSystem.dll
+C:\Users\Vlad\source\repos\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.pdb
+C:\Users\Vlad\source\repos\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.genruntimeconfig.cache
+C:\Users\Vlad\source\repos\BankSystem\BankSystem\obj\Debug\net8.0\ref\BankSystem.dll
+C:\Users\Vlad\Downloads\BankSystem (6)\BankSystem\BankSystem\bin\Debug\net8.0\BankSystem.exe
+C:\Users\Vlad\Downloads\BankSystem (6)\BankSystem\BankSystem\bin\Debug\net8.0\BankSystem.deps.json
+C:\Users\Vlad\Downloads\BankSystem (6)\BankSystem\BankSystem\bin\Debug\net8.0\BankSystem.runtimeconfig.json
+C:\Users\Vlad\Downloads\BankSystem (6)\BankSystem\BankSystem\bin\Debug\net8.0\BankSystem.dll
+C:\Users\Vlad\Downloads\BankSystem (6)\BankSystem\BankSystem\bin\Debug\net8.0\BankSystem.pdb
+C:\Users\Vlad\Downloads\BankSystem (6)\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Downloads\BankSystem (6)\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.AssemblyInfoInputs.cache
+C:\Users\Vlad\Downloads\BankSystem (6)\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.AssemblyInfo.cs
+C:\Users\Vlad\Downloads\BankSystem (6)\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Downloads\BankSystem (6)\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.dll
+C:\Users\Vlad\Downloads\BankSystem (6)\BankSystem\BankSystem\obj\Debug\net8.0\refint\BankSystem.dll
+C:\Users\Vlad\Downloads\BankSystem (6)\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.pdb
+C:\Users\Vlad\Downloads\BankSystem (6)\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.genruntimeconfig.cache
+C:\Users\Vlad\Downloads\BankSystem (6)\BankSystem\BankSystem\obj\Debug\net8.0\ref\BankSystem.dll
+C:\Users\Vlad\Documents\BankSystem (3)\BankSystem (6)\BankSystem\BankSystem\bin\Debug\net8.0\BankSystem.exe
+C:\Users\Vlad\Documents\BankSystem (3)\BankSystem (6)\BankSystem\BankSystem\bin\Debug\net8.0\BankSystem.deps.json
+C:\Users\Vlad\Documents\BankSystem (3)\BankSystem (6)\BankSystem\BankSystem\bin\Debug\net8.0\BankSystem.runtimeconfig.json
+C:\Users\Vlad\Documents\BankSystem (3)\BankSystem (6)\BankSystem\BankSystem\bin\Debug\net8.0\BankSystem.dll
+C:\Users\Vlad\Documents\BankSystem (3)\BankSystem (6)\BankSystem\BankSystem\bin\Debug\net8.0\BankSystem.pdb
+C:\Users\Vlad\Documents\BankSystem (3)\BankSystem (6)\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Documents\BankSystem (3)\BankSystem (6)\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.AssemblyInfoInputs.cache
+C:\Users\Vlad\Documents\BankSystem (3)\BankSystem (6)\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.AssemblyInfo.cs
+C:\Users\Vlad\Documents\BankSystem (3)\BankSystem (6)\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Documents\BankSystem (3)\BankSystem (6)\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.dll
+C:\Users\Vlad\Documents\BankSystem (3)\BankSystem (6)\BankSystem\BankSystem\obj\Debug\net8.0\refint\BankSystem.dll
+C:\Users\Vlad\Documents\BankSystem (3)\BankSystem (6)\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.pdb
+C:\Users\Vlad\Documents\BankSystem (3)\BankSystem (6)\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.genruntimeconfig.cache
+C:\Users\Vlad\Documents\BankSystem (3)\BankSystem (6)\BankSystem\BankSystem\obj\Debug\net8.0\ref\BankSystem.dll
+C:\Users\Vlad\Documents\BankSystem (3)\BankSystem (6)\BankSystem\BankSystem\bin\Debug\net8.0\LiteDB.dll
+C:\Users\Vlad\Documents\BankSystem (3)\BankSystem (6)\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.csproj.AssemblyReference.cache
+C:\Users\Vlad\Documents\BankSystem (3)\BankSystem (6)\BankSystem\BankSystem\obj\Debug\net8.0\BankSystem.csproj.Up2Date
+C:\Users\Vlad\Documents\BankSystem (3)\BankSystem (6)\BankSystem\BankSystem\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\Vlad\Documents\BankSystem (3)\BankSystem (6)\BankSystem\BankSystem\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\Vlad\Documents\BankSystem (3)\BankSystem (6)\BankSystem\BankSystem\bin\Debug\net8.0\xunit.core.dll
+C:\Users\Vlad\Documents\BankSystem (3)\BankSystem (6)\BankSystem\BankSystem\bin\Debug\net8.0\xunit.execution.dotnet.dll

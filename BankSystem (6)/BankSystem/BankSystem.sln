@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankSystem", "BankSystem\BankSystem.csproj", "{A1AC711B-5D7B-4CE2-B466-66B7648089CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "..\..\..\..\Downloads\course_work-Test\Tests.csproj", "{8A069B3D-B098-E982-C5E7-5781631956A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1AC711B-5D7B-4CE2-B466-66B7648089CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1AC711B-5D7B-4CE2-B466-66B7648089CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1AC711B-5D7B-4CE2-B466-66B7648089CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1AC711B-5D7B-4CE2-B466-66B7648089CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A069B3D-B098-E982-C5E7-5781631956A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A069B3D-B098-E982-C5E7-5781631956A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A069B3D-B098-E982-C5E7-5781631956A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A069B3D-B098-E982-C5E7-5781631956A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D12404E-E8DD-476F-9DA9-9C644DBDC44E}
+	EndGlobalSection
+EndGlobal
